@@ -38,7 +38,7 @@ export const polygonPools = [
     name: 'MATIC-PSP LP',
     token: 'MATIC-PSP LP',
     tokenDescription: 'Cometh',
-    tokenAddress: '0xe3ae064907e9d49c7355504c25f8cae2e7831501',
+    tokenAddress: '0xE3AE064907e9D49C7355504c25f8cAe2e7831501',
     tokenDecimals: 18,
     tokenDescriptionUrl: '#',
     earnedToken: 'mooComethMATIC-PSP',
